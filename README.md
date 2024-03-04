@@ -5,9 +5,9 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-vigykshit-green)](https://vigykshit.github.io/profile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-vigykshit-yellow)](https://stackoverflow.com/users/21152230/vigykshit-katoch)
 
-I'm
-Full Stack Web Developer
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS,Azure),database(MongoDB), CI/CD(Docker, kubernetes)
+
+Welcome to my GitHub profile! 
+I'm a skilled Full Stack web developer with expertise in the MERN (MongoDB, Express.js, React.js, Node.js) stack. With a passion for creating dynamic and responsive web applications, I continuously strive to stay updated with the latest technologies and best practices in the field. Take a look at my projects and contributions to see how I leverage my skills to deliver high-quality solutions
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Vigykshit/count.svg)
