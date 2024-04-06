@@ -15,7 +15,7 @@ I'm a skilled Full Stack web developer with expertise in the MERN (MongoDB, Expr
 <div>
   <h4>🏆 Github Profile Trophy</h4>
    <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Vigykshit&Column=4/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Vigykshit&Column=4"/>
   </a>
 </div>
 
