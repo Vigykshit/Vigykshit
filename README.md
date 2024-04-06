@@ -18,6 +18,7 @@ I'm a skilled Full Stack web developer with expertise in the MERN (MongoDB, Expr
     <img src="https://github-profile-trophy.vercel.app/?username=Vigykshit&theme=alduin"/>
   </a>
 </div>
+</br>
 
 Languages and Tools: 
 
@@ -54,7 +55,7 @@ Languages and Tools:
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
     </a>
-   
+   </br>
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
